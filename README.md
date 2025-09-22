@@ -52,7 +52,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
+| 1    | Alta       | Como tomador de decisão em políticas públicas, quero filtrar as cargas
+                      perigosas movimentadas do Brasil nos anos de 2021 até 2025, para reduzir
+                      riscos à saúde pública e ao meio ambiente, priorizando a fiscalização e a
+                      prevenção de acidentes.                                                                                                                                 | 3 (Horas)          | 1      |
 | 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
 | 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
@@ -66,7 +69,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 01/10/2025 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | 22/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 19/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
