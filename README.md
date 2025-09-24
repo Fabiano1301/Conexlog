@@ -26,8 +26,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Idalice Dodoi |   https://www.linkedin.com/in/idalice-godoi-248b05315/    https://github.com/IdaliceJD?tab=repositories        |
 |  Team Member  | João Paulo da Silva | https://br.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303 https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whitehttps://github.com/joaozinhovns|
 |  Team Member  | Manoele Moraes |    https://www.linkedin.com/in/manoele-moraes-9b3345210/  https://github.com/Manoelemoraes
-|  Team Member  | Ribamar Barros|    https://www.linkedin.com/feed/ https://github.com/Fabiano1301/Conexlog/commits?author=Ribamar074
-
+|  Team Member  | Ribamar Barros|    https://www.linkedin.com/feed/ https://github.com/Ribamar074
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
