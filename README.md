@@ -25,7 +25,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Team Member   | Cristovão de Paula Ferreira Junior |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
 |  Team Member  | Idalice Dodoi |   https://www.linkedin.com/in/idalice-godoi-248b05315/    https://github.com/IdaliceJD?tab=repositories        |
 |  Team Member  | João Paulo da Silva | https://br.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303 https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=whitehttps://github.com/joaozinhovns|
-|  Team Member  | Manoele Moraes |    https://www.linkedin.com/in/manoele-moraes-9b3345210/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+|  Team Member  | Manoele Moraes |    https://www.linkedin.com/in/manoele-moraes-9b3345210/?  https://github.com/Manoelemoraes
 |  Team Member  | Ribamar Barros|     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
 
 
