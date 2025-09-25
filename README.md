@@ -60,6 +60,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
 | ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
 | 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          
+
+
 ##Sprint 1
 Tratamento de dados no Pyton(Colab)
 https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
