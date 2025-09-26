@@ -27,6 +27,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | João Paulo da Silva | https://br.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303 https://github.com/joaozinhovns/log_inform-tica
 |  Team Member  | Manoele Moraes |    https://www.linkedin.com/in/manoele-moraes-9b3345210/  https://github.com/Manoelemoraes
 |  Team Member  | Ribamar Barros|    https://www.linkedin.com/feed/ https://github.com/Ribamar074/log_inf..git
+<img width="670" height="315" alt="Captura de tela 2025-09-25 214441" src="https://github.com/user-attachments/assets/f067d18c-d03c-46bc-9763-155e1e2cd543" />
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
