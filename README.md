@@ -13,7 +13,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-O objetivo deste projeto é desenvolver uma plataforma de dashboard que permita visualizar informações sobre o desempenho dos Transportes de Produtos Químicos Perigosos ou Combustível cargas perigosa em todo território Nacional, com base nos dados abertos do IBAMA dos anos de 2021 a 2024, que foram tratados em Python. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de falhas em rodovias.
+Eate projeto é desenvolver uma plataforma de dashboard que permita visualizar informações sobre o desempenho dos Transportes de Produtos Químicos Perigosos ou Combustível cargas perigosa em todo território Nacional, com base nos dados abertos do IBAMA dos anos de 2021 a 2024, que foram tratados em Python. Essa ferramenta fornecerá aos tomadores de decisão em politicas publicas dados claros e acessíveis, permitindo a identificação de falhas em rodovias.
 
 # Objetivo do Projeto
 O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibilite a visualização e análise do desempenho do transporte de cargas de Produtos Químicos e Combustíveis em todo o território nacional, utilizando como base os dados abertos do IBAMA referentes ao período de 2021 a 2024, tratados em Python.
