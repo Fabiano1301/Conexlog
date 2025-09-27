@@ -13,9 +13,13 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprint
+O objetivo deste projeto é desenvolver uma plataforma de dashboard que permita visualizar informações sobre o desempenho dos Transportes de Produtos Químicos Perigosos ou Combustível cargas perigosa em todo território Nacional, com base nos dados abertos do IBAMA dos anos de 2021 a 2024, que foram tratados em Python. Essa ferramenta fornecerá aos tomadores de decisão dados claros e acessíveis, permitindo a identificação de falhas em rodovias.
+
+# Objetivo do Projeto
+O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibilite a visualização e análise do desempenho do transporte de cargas de Produtos Químicos e Combustíveis em todo o território nacional, utilizando como base os dados abertos do IBAMA referentes ao período de 2021 a 2024, tratados em Python.
+* Apresentar visualmente os principais dados filtrados.
+* Comparar erros e falhas . 
+* Permitir segmentação por filtros interativos: produto, origem e destino, ano. 
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -31,22 +35,14 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Product Backlog
 
 # Sprint 1
+
 Tratamento de dados no Pyton(Colab)
 https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
 
 Dashboard no PowerBi da 1 Sprit
-<img width="1366" height="768" alt="Captura de Tela (133)" src="https://github.com/user-attachments/assets/201ea6e5-9e26-47d2-b3b8-ec15e2aba547" />
-<img width="1366" height="768" alt="Captura de Tela (135)" src="https://github.com/user-attachments/assets/c59ff838-279e-4f83-b879-b7e993430919" />
-
-
-
-# Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+<img width="881" height="505" alt="image" src="https://github.com/user-attachments/assets/1e1671d4-896c-4376-9ac4-d08b25b7c192" />
+<img width="913" height="509" alt="image" src="https://github.com/user-attachments/assets/75a82a6f-c209-4d4c-b04b-9ccee48b78d3" />
+# Relatorio da 1 Sprint 
 
 
 ## Tecnologias Utilizadas
