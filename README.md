@@ -34,6 +34,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 Tratamento de dados no Pyton(Colab)
 https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
 
+Dashboard no PowerBi da 1 Sprit
+<img width="1366" height="768" alt="Captura de Tela (133)" src="https://github.com/user-attachments/assets/201ea6e5-9e26-47d2-b3b8-ec15e2aba547" />
+<img width="1366" height="768" alt="Captura de Tela (135)" src="https://github.com/user-attachments/assets/c59ff838-279e-4f83-b879-b7e993430919" />
+
+
+
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * Centralizar os trabalhos e projetos;
