@@ -27,7 +27,12 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | João Paulo da Silva | https://br.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303 https://github.com/joaozinhovns/log_inform-tica
 |  Team Member  | Manoele Moraes |    https://www.linkedin.com/in/manoele-moraes-9b3345210/  https://github.com/Manoelemoraes
 |  Team Member  | Ribamar Barros|    https://www.linkedin.com/feed/ https://github.com/Ribamar074/log_inf..git
-<img width="670" height="315" alt="Captura de tela 2025-09-25 214441" src="https://github.com/user-attachments/assets/f067d18c-d03c-46bc-9763-155e1e2cd543" />
+
+# Product Backlog
+
+# Sprint 1
+Tratamento de dados no Pyton(Colab)
+https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
@@ -46,27 +51,6 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Comunidade de Whatsapp
 * Python (Colab)
 *  Canva
-
-
-
-# Product Backlog
-
-| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
-|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como tomador de decisão em políticas públicas, quero filtrar as cargas
-                      perigosas movimentadas do Brasil nos anos de 2021 até 2025, para reduzir
-                      riscos à saúde pública e ao meio ambiente, priorizando a fiscalização e a
-                      prevenção de acidentes.                                                                                                                                 | 3 (Horas)          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          
-
-
-##Sprint 1
-Tratamento de dados no Pyton(Colab)
-https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
-
 
 
   
