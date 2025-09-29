@@ -33,6 +33,7 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 |  Team Member  | Ribamar Barros|    https://www.linkedin.com/feed/ https://github.com/Ribamar074/log_inf..git
 
 # Product Backlog
+<img width="676" height="277" alt="Captura de tela 2025-09-26 153556" src="https://github.com/user-attachments/assets/94ad3ae0-8251-401e-8e25-d6ed8ab97183" />
 
 # Sprint 1
 
