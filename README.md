@@ -40,9 +40,6 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 Tratamento de dados no Pyton(Colab)
 https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
 
-Dashboard no PowerBi da 1 Sprit
-<img width="881" height="505" alt="image" src="https://github.com/user-attachments/assets/1e1671d4-896c-4376-9ac4-d08b25b7c192" />
-<img width="913" height="509" alt="image" src="https://github.com/user-attachments/assets/75a82a6f-c209-4d4c-b04b-9ccee48b78d3" />
 
 ## Tecnologias Utilizadas
 
