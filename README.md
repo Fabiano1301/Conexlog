@@ -68,7 +68,7 @@ https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=dr
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 01/10/2025 | a fazer  | [MVP](MVP/sp1.md)  |
+| 01                | 01/10/2025 | Feito  | [MVP](MVP/sp1.md)  |
 | 02                | 22/10/2025 | a fazer  | [MVP](MVP/sp2.md)  |
 | 03                | 19/11/2025 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 04/12/2025 | a fazer  | [MVP](#)  |
