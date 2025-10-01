@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Transporte de Produtos Quimicos ou Combustiveis
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -57,7 +57,7 @@
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
 
----
+
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
