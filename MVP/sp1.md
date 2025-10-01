@@ -54,7 +54,8 @@
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
-- Ajustes de usabilidade (/RELATÓRIO API 2.pdf)  
+- Ajustes de usabilidade
+- cp /RELATÓRIO API 2.pdf  
 - Expansão de funcionalidades para próximo incremento  
 
 
