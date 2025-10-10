@@ -24,7 +24,7 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner | Fabiano Almeida |      https://www.linkedin.com/in/fabiano-almeida-854646386/ https://github.com/Fabiano1301|
+| Product Owner | Fabiano Almeida |      [![Linkedin Badge]https://www.linkedin.com/in/fabiano-almeida-854646386/ https://github.com/Fabiano1301|
 | Scrum Master  | Willian Pierre |     https://www.linkedin.com/in/willian-pierre-medeiros-726137373/ https://github.com/willianPierre/log_inf     |
 | Team Member   | Cristovão de Paula Ferreira Junior |         https://www.linkedin.com/in/cristovao-de-paula-ferreira-junior-a11685b4/ https://github.com/minhosinho?tab=overview&from=2025-09-01&to=2025-09-24        |
 |  Team Member  | Idalice Dodoi |   https://www.linkedin.com/in/idalice-godoi-248b05315/    https://github.com/IdaliceJD?tab=repositories        |
