@@ -9,10 +9,7 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Dados tratados: a solução será as estáticas mostradas na dashboard do Powerbi, após o tratamento de dados no python (colab)
 
 ---
 
