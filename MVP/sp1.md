@@ -9,7 +9,7 @@
 ---
 
 ## 📝 Descrição da Solução
-## a solução será as estáticas mostradas na dashboard do Powerbi, após o tratamento de dados no python (colab)Dados tratados: a solução será as estáticas mostradas na dashboard do Powerbi, após o tratamento de dados no python (colab)
+## a solução será as estáticas mostradas na dashboard do Powerbi, após o tratamento de dados no python (colab)
 
 ---
 
