@@ -1,11 +1,10 @@
 # 📌 MVP - Transporte de Produtos Quimicos ou Combustiveis
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibilite 
+a visualização e análise do desempenho do transporte de cargas de Produtos Químicos e 
+Combustíveis em todo o território nacional, utilizando como base os dados abertos do 
+IBAMA referentes ao período de 2021 a 2024, tratados em Python. 
 ---
 
 ## 📝 Descrição da Solução
