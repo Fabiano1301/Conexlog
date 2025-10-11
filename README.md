@@ -29,7 +29,9 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 | Team Member   | Cristovão de Paula Ferreira Junior |         [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristovao-de-paula-ferreira-junior-a11685b4/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhosinho)        |
 |  Team Member  | Idalice Godoi |   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idalice-godoi-248b05315/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IdaliceJD)        |
 |  Team Member  | João Paulo da Silva | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303/?originalSubdomain=br) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaozinhovns/log_inform-tica)
-|  Team Member  | Manoele Moraes |    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303/?originalSubdomain=br) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaozinhovns/log_inform-tica)
+|  Team Member  | Manoele Moraes |    https://www.linkedin.com/in/manoele-moraes-9b3345210/
+https://github.com/Manoelemoraes
+
 |  Team Member  | Ribamar Barros|    https://www.linkedin.com/feed/ https://github.com/Ribamar074/log_inf..git
 
 # Product Backlog
