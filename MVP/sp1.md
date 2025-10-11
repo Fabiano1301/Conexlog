@@ -17,8 +17,8 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1 Marcus Vinicus:**   
+- **Persona 2 IPEM:**  
 
 ---
 
