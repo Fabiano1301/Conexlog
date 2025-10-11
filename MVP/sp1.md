@@ -9,7 +9,7 @@
 ---
 
 ## 📝 Descrição da Solução
-## a solução será as estáticas mostradas na dashboard do Powerbi, após o tratamento de dados no python (colab)
+## A solução será as estáticas mostradas na dashboard do Powerbi, após o tratamento de dados no python (colab)
 
 ---
 
@@ -58,8 +58,6 @@
 
 ## 📂 Anexos / Evidências
 - Prints de tela
-- ![WhatsApp Image 2025-09-30 at 19 55 13](https://github.com/user-attachments/assets/ae497cb5-c053-4716-baee-93705abd29e6)
-- ![WhatsApp Image 2025-09-30 at 19 55 12](https://github.com/user-attachments/assets/d2e4cc8a-8852-4bac-a065-0455c6ed2e52)
   commit -m "Adiciona PDF RELATÓRIO sprint 1.pdf
 - Fluxos ou protótipos  
 - Vídeo (MVP)  
