@@ -22,12 +22,6 @@
 ## 🔑 User Stories (Backlog do MVP)
 | 1    | Alta       |✅️ Como tomador de decisão em políticas públicas, quero filtrar as cargas perigosas movimentadas do Brasil nos anos de 2021 até 2024, para reduzir riscos à saúde pública e ao meio ambiente, priorizando a fiscalização e a  prevenção de acidentes.   | 3 horas          | 1      |
 
-| 2    | Alta       |✅️ Como tomador de decisão em políticas públicas, quero visualizar os principais modais utilizados, para explorar um número maior de modais de transporte.                                                                 | 3 horas          | 1      |
-
-| 3    | Alta       |✅️ Como tomador de decisão em políticas públicas, quero filtrar as principais  origens e destinos, para análise de tendências de fluxos de transporte.                                             | 4 horas          | 1   |
-
-| 4    | Alta       |✅️ Como tomador de decisão em políticas públicas, quero visualizar as principais empresas movimentadoras de cargas, pois a declaração realizada, uma vez que se faz necessária uma credibilidade e transparência para as empresas que fazem esse tipo de movimentação de cargas.                                                                                                                                                   | 4 horas        | 1  |
-
 ---
 
 ## 📅 Sprint(s) Relacionadas
