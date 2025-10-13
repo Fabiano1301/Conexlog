@@ -32,7 +32,7 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 |  Team Member  | Manoele Moraes |    https://www.linkedin.com/in/manoele-moraes-9b3345210/
 https://github.com/Manoelemoraes
 
-|  Team Member  | Ribamar Barros|    https://www.linkedin.com/feed/ https://github.com/Ribamar074/log_inf..git
+|  Team Member  | Ribamar Barros|   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribamar-barros/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ribamar074/log_inf)
 
 # Product Backlog
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
