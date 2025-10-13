@@ -30,15 +30,8 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 |  Team Member  | Idalice Godoi |   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idalice-godoi-248b05315/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IdaliceJD)        |
 |  Team Member  | João Paulo da Silva | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303/?originalSubdomain=br) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaozinhovns/log_inform-tica)
 |  Team Member  | Manoele Moraes |    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoele-moraes-9b3345210/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoelemoraes)
-|  Team Member  | Ribamar Barros|  Acredito que houve um pequeno engano. A última mensagem que você me enviou contém o **código pronto** do Ribamar Barros, e não novos links de perfil.
+|  Team Member  | Ribamar Barros|  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribamar-barros/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ribamar074/log_inf)
 
-Para que eu possa gerar o código Markdown com os Badges para o **próximo** membro da equipe, preciso dos **dois links** (LinkedIn e GitHub) dele.
-
-**Por favor, me envie os novos links para que eu possa gerar o código para você!**
-
-* Exemplo:
-    * `Link do LinkedIn: https://mx.pinterest.com/angyzc1/perfil-de-todo/`
-    * `Link do GitHub: https://mx.pinterest.com/angyzc1/perfil-de-todo/`
 # Product Backlog
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
