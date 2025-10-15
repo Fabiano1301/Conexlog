@@ -13,10 +13,10 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 
 # Projeto (API) 
-Este projeto é desenvolver uma plataforma de dashboard que permita visualizar informações sobre o desempenho dos Transportes de Produtos Químicos Perigosos ou Combustível cargas perigosa em todo território Nacional, com base nos dados abertos do IBAMA dos anos de 2021 a 2024, que foram tratados em Python. Essa ferramenta fornecerá aos tomadores de decisão em politicas publicas dados claros e acessíveis, permitindo a identificação de falhas em rodovias.
+Este projeto é desenvolver uma plataforma de dashboard que permita visualizar informações sobre o desempenho dos Transportes de Produtos Químicos Perigosos ou Combustível cargas perigosa em todo território Nacional referente aos anos de 2021 a 2024 e a estatística de acidentes e os principais locais com maiores incidências de acidentes no Estado de São Paulo dos anos de 2018 a 2025. Essa ferramenta fornecerá aos tomadores de decisão em politicas publicas dados claros e acessíveis, permitindo a identificação de falhas em rodovias.
 
 # Objetivo do Projeto
-O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibilite a visualização e análise do desempenho do transporte de cargas de Produtos Químicos e Combustíveis em todo o território nacional, utilizando como base os dados abertos do IBAMA referentes ao período de 2021 a 2024, tratados em Python.
+O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibilite a visualização e análise do desempenho do transporte de cargas de Produtos Químicos e Combustíveis em todo o território nacional, utilizando como base os dados abertos do IBAMA referentes ao período de 2021 a 2024 e  a estatística de acidentes e os principais locais com maiores incidências de acidentes no Estado de São Paulo através base de dados do RENAEST dos anos de 2018 a 2025 ambas bases foram tratadas no Python.
 * Apresentar visualmente os principais dados filtrados.
 * Comparar erros e falhas . 
 * Permitir segmentação por filtros interativos: produto, origem e destino, ano. 
