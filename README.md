@@ -31,6 +31,7 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 |  Team Member  | João Paulo da Silva | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-paulo-da-silva-8017a5303/?originalSubdomain=br) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaozinhovns/log_inform-tica)
 |  Team Member  | Manoele Moraes |    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoele-moraes-9b3345210/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manoelemoraes)
 |  Team Member  | Ribamar Barros| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribamar-barros/) https://github.com/Ribamar074?tab=overview&from=2025-09-01&to=2025-09-30
+
 # Product Backlog
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
