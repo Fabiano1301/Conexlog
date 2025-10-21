@@ -7,10 +7,8 @@
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+
+A solução será às estátisticas exibidas no DASHDOARD do PAWER BI, após o tratamento de dados no python (Colab).
 
 ---
 
