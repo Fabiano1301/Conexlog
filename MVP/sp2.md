@@ -1,7 +1,7 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:
+
 > Desenvolver uma plataforma de DASHBOARD que possibilite a visualização, analise do desempenho e estatística de acientes do Estado de São Paulo , ultilizando como base os dados abertosdo RENAEST referentes ao período de 2018 a 2025 tratados em PYATHON.
 
 ---
