@@ -19,10 +19,14 @@ A solução será às estátisticas exibidas no DASHDOARD do PAWER BI, após o t
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+# Product Backlog
+| Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
+|------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
+| 5   | Média     | Como tomador de decisão em políticas públicas, quero visualizar as estatísticas de acidentes por dia, para planejamento estratégico para a prevenção dos transportes.   | 3 horas          | 2    |
+| 6    | Média      |Como tomador de decisão em políticas públicas, quero visualizar as estatísticas de acidentes por semana (mostrando os principais dias da semana com mais acidentes), para planejamento estratégico para prevenção de paradas de descanso, pois é necessário para prevenção de acidentes                                                  | 6 horas          | 2     |
+| 7    | Média      | Como tomador de decisão em políticas públicas, quero visualizar as estatísticas de acidentes por mês, para planejamento estratégico para a prevenção dos transportes.                                                                | 6 horas         | 2      |
+| 8    | Média      | Como tomador de decisão em politicas publicas, quero as distâncias entre as localidades de maiores incidências de acidentes e os locais de paradas de descanso,pois e necessario para prevenção de acidentes.                                              | 6 horas          | 2      |
+| 10 | Baixa      | Como tomador de decisão em políticas públicas, quero saber a quantidade de acidentes ao longo do tempo(por anos), para que eu possa realizar mais ações para o planejamento de transporte.                                                                                                                                                   | 7 horas        | 2    |
 
 ---
 
