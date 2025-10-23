@@ -54,6 +54,8 @@ o tratamento de dados no Python(colab) de acidentes do estado de São Paulo
 https://colab.research.google.com/drive/1scG--FGnLGQDx_6V88CcuXdlndnGG8yt?usp=drive_link
 ---
 
+https://colab.research.google.com/drive/1scG--FGnLGQDx_6V88CcuXdlndnGG8yt?usp=drive_link
+
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
