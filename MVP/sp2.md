@@ -49,7 +49,8 @@ A solução será às estátisticas exibidas no DASHDOARD do PAWER BI, após o t
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
-
+o tratamento de dados no Python(colab) de acidentes do estado de São Paulo
+https://colab.research.google.com/drive/1scG--FGnLGQDx_6V88CcuXdlndnGG8yt?usp=drive_link
 ---
 
 ## 🚀 Próximos Passos
