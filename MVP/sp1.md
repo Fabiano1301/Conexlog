@@ -14,8 +14,8 @@ IBAMA referentes ao período de 2021 a 2024, tratados em Python.
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1 Marcus Vinicus:**   
-- **Persona 2 IPEM:**  
+- **Persona 1 : Marcus Vinicius    
+- **Persona 2 : INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE SÃO PAULO - IPEM-SP
 
 ---
 
@@ -31,8 +31,8 @@ IBAMA referentes ao período de 2021 a 2024, tratados em Python.
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |Dashboard no Power Bi                        | Concluído|
+| 02     | Dashboad no Power Bi                           | Em andamento |
 
 ---
 
