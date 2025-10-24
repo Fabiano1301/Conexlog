@@ -15,7 +15,7 @@ IBAMA referentes ao período de 2021 a 2024, tratados em Python.
 
 ## 👥 Personas / Usuários-Alvo
 - **Persona 1 : Marcus Vinicius    
-- **Persona 2 : INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE SÃO PAULO - IPEM-SP
+- **Persona  2 : INSTITUTO DE PESOS E MEDIDAS DO ESTADO DE SÃO PAULO - IPEM-SP
 
 ---
 
