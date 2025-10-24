@@ -13,8 +13,8 @@ A solução será às estátisticas exibidas no DASHDOARD do PAWER BI, após o t
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Marcus Vinicius 
+- **Persona 2:** IPEM do estado de São Paulo 
 
 ---
 
@@ -33,8 +33,8 @@ A solução será às estátisticas exibidas no DASHDOARD do PAWER BI, após o t
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Dashboard no Power BI                        | Concluído|
+| 02     |Dashboard no Power BI                            | Em andamento |
 
 ---
 
@@ -50,11 +50,11 @@ A solução será às estátisticas exibidas no DASHDOARD do PAWER BI, após o t
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 o tratamento de dados no Python(colab) de acidentes do estado de São Paulo
-
 https://colab.research.google.com/drive/1scG--FGnLGQDx_6V88CcuXdlndnGG8yt?usp=drive_link
----
-
+o tratamento de dados no Python(colab) de locais do estado de São Paulo onde ocorrem maiores acidentes 
 https://colab.research.google.com/drive/1scG--FGnLGQDx_6V88CcuXdlndnGG8yt?usp=drive_link
+
+
 
 ## 🚀 Próximos Passos
 - Melhorias planejadas após feedback  
