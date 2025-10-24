@@ -47,11 +47,6 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 | 11  | Baixa      | Como tomador de decisão em políticas públicas, quero visualizar as principais rotas com maiores índices de acidentes viários, pois é necessário conhecer os locais mais perigosos para os transportes     | 7 horas          | 3      |
 | 12   | Baixa      | Como tomador de decisão em políticas públicas, quero visualizar a integração da base de dados do IBAMA com base do RENAEST, para um maioor entendimento do projeto  | 7 horas          | 3      |
 
-# Sprint 1
-
-Tratamento de dados no Pyton(Colab)
-https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
-
 
 ## Tecnologias Utilizadas
 
