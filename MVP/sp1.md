@@ -64,4 +64,6 @@ IBAMA referentes ao período de 2021 a 2024, tratados em Python.
 - Fluxos ou protótipos
 - Tratamento da base de dados do IBAMA no Pyton(Colab)
 https://colab.research.google.com/drive/1fcctHgVzW3fD1yz3mC-gzDRr8t-ua7K-?usp=drive_link
-- Vídeo (MVP)  
+- Vídeo (MVP)
+- resultado da 1 sprint  numa dashboard realizada no Power Bi
+<img width="1692" height="767" alt="Screenshot 2025-10-28 205605" src="https://github.com/user-attachments/assets/e5ee38d8-97eb-40c9-8cf4-e0f2b7dd4d98" />
