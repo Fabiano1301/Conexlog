@@ -57,7 +57,6 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 * Python (Colab)
 *  Canva
 
-
   
 # Registro das Sprints
 
