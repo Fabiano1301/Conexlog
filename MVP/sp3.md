@@ -1,24 +1,18 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** 
+- **Persona 2:** 
 
 ---
 
