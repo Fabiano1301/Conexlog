@@ -60,5 +60,5 @@ O objetivo deste projeto é desenvolver uma plataforma de dashboard que possibil
 |-------------------|------------|----------|-----------|
 | 01                | 01/10/2025 | Feito  | [MVP](MVP/sp1.md)  |
 | 02                | 29/10/2025 | Feito  | [MVP](MVP/sp2.md)  |
-| 03                | 19/11/2025 | Em Andamento  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 04/12/2025 |  Pendente  | [MVP](#)  |
+| 03                | 19/11/2025 | Feito | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 04/12/2025 |  Em Andamento  | [MVP](#)  |
