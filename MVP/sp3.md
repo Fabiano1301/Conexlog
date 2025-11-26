@@ -6,13 +6,13 @@
 ---
 
 ## 📝 Descrição da Solução
-
+Apresentar uma dashboard no Pawer bi
 
 ---
 
-## 👥 Personas / Usuários-Alvo
-- **Persona 1:** 
-- **Persona 2:** 
+ 👥 Personas / Usuários-Alvo
+- Persona 1: Marcos Vinicius 
+- Persona 2: IPEM do estado de São Paulo
 
 ---
 
