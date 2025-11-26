@@ -19,7 +19,7 @@ Apresentar uma dashboard no Pawer bi
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US1 | Como tomador de decisão em políticas públicas, quero visualizar as principais rotas com maiores índices de acidentes viários, pois é necessário conhecer os locais mais perigosos para os transportes         | Alta       | 5 pontos   |
 | US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 
 ---
