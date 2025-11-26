@@ -20,7 +20,7 @@ Apresentar uma dashboard no Pawer bi
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como tomador de decisão em políticas públicas, quero visualizar as principais rotas com maiores índices de acidentes viários, pois é necessário conhecer os locais mais perigosos para os transportes         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US2 | Como tomador de decisão em políticas públicas, quero visualizar a integração da base de dados do IBAMA com base do RENAEST, para um maioor entendimento do projeto         | Média      | 3 pontos   |
 
 ---
 
