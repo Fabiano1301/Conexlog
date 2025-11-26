@@ -1,7 +1,7 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-
+É efeturar uma relaçaõ entre os dados do IBAMA com os dados do RENAEST
 
 ---
 
